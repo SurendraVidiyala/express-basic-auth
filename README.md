@@ -1,5 +1,5 @@
 # express-basic-auth
-* Note:In the real-time projects we don't use base64 to encode the username and password, which is not secured. 
+* Note:In the real-time projects we don't use 'base64' to encode/encrypt the username and password, which is not secured. 
 * Using basic authentication approach to authenticate users. 
   - Set up an Express server to handle basic authentication
   - Use the basic access authentication approach to do basic authentication.
